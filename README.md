@@ -7,7 +7,7 @@ The scripts require the following input data:
 
 **(1) Expression Data:** sncRNA expression normalized via the TMM method.
 
-**(2) Samplesheet:** Samplesheet with ACE, PSS, and batch for each sample
+**(2) Samplesheet:** Samplesheet with ACE, PSS, and batch for each sample.
 
 **(3) Dynamic sncRNAs**: sncRNA set selected according to the methodology described in the article.
     
