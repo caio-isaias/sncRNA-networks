@@ -4,6 +4,7 @@ Analysis scripts for **"Differential and co-expression modeling reveal ACE and p
 This repository contains the R scripts used to generate the results and figures presented in the associated article.
 
 The scripts require the following input data:
+
 **1. Expression Data:** sncRNA expression normalized via the TMM method.
 
 **2. List of dynamic sncRNAs**: sncRNA set selected according to the methodology described in the article.
