@@ -5,8 +5,10 @@ This repository contains the R scripts used to generate the results and figures 
 
 The scripts require the following input data:
 
-**1. Expression Data:** sncRNA expression normalized via the TMM method.
+**(1) Expression Data:** sncRNA expression normalized via the TMM method.
 
-**2. List of dynamic sncRNAs**: sncRNA set selected according to the methodology described in the article.
+**(2) List of dynamic sncRNAs**: sncRNA set selected according to the methodology described in the article.
     
-**3. Samples PSS dynamic classification**: Sample subsets classified based on the Perceived Stress Scale (PSS) trajectories dynamics, as described in the article.
+**(3) Samples PSS dynamic classification**: Sample subsets classified based on the Perceived Stress Scale (PSS) trajectories dynamics, as described in the article.
+
+Files corresponding to items **(2)** and **(3)** can be found in the repository's _data/_ folder.
