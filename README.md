@@ -3,15 +3,12 @@ Analysis scripts for **"Differential and co-expression modeling reveal ACE and p
 
 This repository contains the R scripts used to generate the results and figures presented in the associated article.
 
-Data Inputs
-
 The scripts require the following input data:
+**1. Expression Data:** sncRNA expression normalized via the TMM method.
 
-   **Expression Data:** sncRNA expression normalized via the TMM method.
+**2. List of dynamic sncRNAs**: sncRNA set selected according to the methodology described in the article.
     
-   **List of dynamic sncRNAs**: sncRNA set selected according to the methodology described in the article.
-    
-   **List of dynamic PSS Samples**: Sample subsets identified based on the Perceived Stress Scale (PSS) trajectories dynamics, described in the article.
+**3. List of dynamic PSS Samples**: Sample subsets identified based on the Perceived Stress Scale (PSS) trajectories dynamics, described in the article.
   
 
 DREAM_models.R - differential expression analysis and volcano plot
