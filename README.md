@@ -9,7 +9,7 @@ The scripts require the following input data:
 
 **2. List of dynamic sncRNAs**: sncRNA set selected according to the methodology described in the article.
     
-**3. List of dynamic PSS Samples**: Sample subsets identified based on the Perceived Stress Scale (PSS) trajectories dynamics, described in the article.
+**3. Samples PSS dynamic classification**: Sample subsets classified based on the Perceived Stress Scale (PSS) trajectories dynamics, as described in the article.
   
 
 DREAM_models.R - differential expression analysis and volcano plot
