@@ -183,7 +183,7 @@ sjPlot::tab_model(model_blue, show.re.var = FALSE,digits = 5,p.threshold = c(0.0
 
 # --------------------------------------------------------- #
 
-## Set 1: Stable low + Increase
+## Set 2: Stable low + Stable moderate
 data_for_WGCNA = t(voom_expr_set2$E)
 data_for_WGCNA = removing_species_notation(data_for_WGCNA)
 cat("Samples:",nrow(data_for_WGCNA)) # 53
